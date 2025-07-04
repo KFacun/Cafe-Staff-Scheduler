@@ -33,4 +33,4 @@ The system implements a recursive divide-and-conquer approach:
 
 ## Tag Reference
 
-Final submission tagged as: `v1.1-final`
+Final submission tagged as: `v1.2-final`
